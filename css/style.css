@@ -9703,3 +9703,18 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+
+/* Changes  */
+
+/* 
+.one-third.js-fullheight.img {
+  background-size: contain; 
+  background-repeat: no-repeat; 
+  background-position: center center; 
+  min-height: 100vh;
+  display: flex; 
+  justify-content: center; 
+  align-items: center;
+  position: relative; 
+} */
+
